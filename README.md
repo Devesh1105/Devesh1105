@@ -10,9 +10,9 @@ devesh@github: ~/readme $ fastfetch
 username: Devesh1105
 whoami:   developer, night-owl debugger :3
 os:       probably running on caffeine
-languages: [ your languages here, e.g. JS, Python, C++ ]
-learning: [ what you're currently learning ]
-hobbies:  coding, anime/manga, gaming
+languages: [ Python(main), C++ ]
+learning: [hmmm ]
+hobbies:  coding, anime/manga, gaming,Drawing
 status:   awake at 3am fixing a bug nobody asked me to fix
 motto:    "not all heroes wear capes, some just write clean commits"
 ------------------------------------------------------------
