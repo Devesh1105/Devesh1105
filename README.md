@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devesh%20👾&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=full-stack%20dev%20%7C%20anime%20enjoyer&descAlignY=58&descSize=18" />
 
-<p align="center">
-  <img src="coder.jpg" width="260" alt="coding late at night"/>
-</p>
+<table>
+<tr>
+<td width="60%">
 
 ```
 devesh@github: ~/readme $ fastfetch
@@ -12,11 +12,18 @@ whoami:   developer, night-owl debugger :3
 os:       probably running on caffeine
 languages: [ Python(main), C++ ]
 learning: [hmmm ]
-hobbies:  coding, anime/manga, gaming,Drawing
+hobbies:  coding, anime/manga, gaming, Drawing
 status:   awake at 3am fixing a bug nobody asked me to fix
 motto:    "not all heroes wear capes, some just write clean commits"
 ------------------------------------------------------------
 ```
+
+</td>
+<td width="40%" align="center">
+  <img src="assets/coder.jpg" width="240" alt="coding late at night"/>
+</td>
+</tr>
+</table>
 
 <h3 align="center">⚡ Stats ⚡</h3>
 
@@ -32,7 +39,7 @@ motto:    "not all heroes wear capes, some just write clean commits"
 </p>
 
 <p align="center">
-  <img src="dealwithit.jpg" width="180" alt="deal with it"/>
+  <img src="assets/dealwithit.jpg" width="180" alt="deal with it"/>
 </p>
 
 <p align="center"><i>Thanks for stopping by ✨</i></p>
