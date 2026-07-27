@@ -35,10 +35,15 @@ motto:    "not all heroes wear capes, some just write clean commits"
 <h3 align="center">🛠 Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cpp,git,vscode,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cpp,git,vscode,jupyter,docker,kubernetes,ps,blender,unreal,unity&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-
+<p align="center">
+  <i>bonus: dabbling with Antigravity too 🚀</i>
+</p>
 
 <p align="center"><i>Thanks for stopping by ✨</i></p>
 
