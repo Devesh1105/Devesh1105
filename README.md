@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devesh%20👾&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=full-stack%20dev%20%7C%20anime%20enjoyer&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <img src="assets/coder.jpg" width="260" alt="coding late at night"/>
+  <img src="coder.jpg" width="260" alt="coding late at night"/>
 </p>
 
 ```
