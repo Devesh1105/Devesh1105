@@ -28,8 +28,8 @@ motto:    "not all heroes wear capes, some just write clean commits"
 <h3 align="center">⚡ Stats ⚡</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devesh1105&show_icons=true&theme=tokyonight&card_width=400&line_height=24" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh1105&theme=tokyonight&layout=compact" width="42%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Devesh1105&show_icons=true&theme=tokyonight&card_width=400&line_height=24" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Devesh1105&theme=tokyonight&layout=compact" width="42%"/>
 </p>
 
 <h3 align="center">🛠 Tools</h3>
@@ -38,9 +38,7 @@ motto:    "not all heroes wear capes, some just write clean commits"
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cpp,git,vscode,jupyter&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="dealwithit.jpg" width="180" alt="deal with it"/>
-</p>
+
 
 <p align="center"><i>Thanks for stopping by ✨</i></p>
 
