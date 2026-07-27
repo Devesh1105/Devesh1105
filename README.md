@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=B084F5&center=true&vCenter=true&width=600&height=70&lines=Devesh+%F0%9F%91%BE;AI%2FML+Student;Anime+Enjoyer" />
-</p>
+<table align="center">
+<tr>
+<td>
+  <img src="cat.png" width="70" alt="anime cat"/>
+</td>
+<td>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=B084F5&center=true&vCenter=true&width=550&height=70&lines=Devesh;AI%2FML+Student;Anime+Enjoyer" />
+</td>
+</tr>
+</table>
 
 
 <table>
@@ -48,6 +55,9 @@ motto:    "not all heroes wear capes, some just write clean commits"
   <i>bonus: dabbling with Antigravity too 🚀</i>
 </p>
 
+<p align="center">
+  <img src="assets/dealwithit.jpg" width="180" alt="deal with it"/>
+</p>
 
 <p align="center"><i>Thanks for stopping by ✨</i></p>
 
