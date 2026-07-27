@@ -20,7 +20,7 @@ motto:    "not all heroes wear capes, some just write clean commits"
 
 </td>
 <td width="40%" align="center">
-  <img src="assets/coder.jpg" width="240" alt="coding late at night"/>
+  <img src="coder.jpg" width="240" alt="coding late at night"/>
 </td>
 </tr>
 </table>
