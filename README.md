@@ -1,10 +1,10 @@
 <table align="center">
 <tr>
 <td>
-  <img src="cat.jpg" width="70" alt="anime cat"/>
+  <img src="tongue-out-ca-white-cat.gif" width="70" alt="anime cat"/>
 </td>
 <td>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=B084F5&center=true&vCenter=true&width=550&height=70&lines=Devesh;AI%2FML+Student;Anime+Enjoyer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=B084F5&center=true&vCenter=true&width=550&height=70&lines=Devesh Poojary;AI%2FML+Student;Anime+Enjoyer" />
 </td>
 </tr>
 </table>
