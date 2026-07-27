@@ -1,7 +1,7 @@
 <table align="center">
 <tr>
 <td>
-  <img src="cat.png" width="70" alt="anime cat"/>
+  <img src="so funny cat.jpg" width="70" alt="anime cat"/>
 </td>
 <td>
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=B084F5&center=true&vCenter=true&width=550&height=70&lines=Devesh;AI%2FML+Student;Anime+Enjoyer" />
