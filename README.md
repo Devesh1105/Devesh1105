@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devesh%20👾&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20student%20%7C%20anime%20enjoyer&descAlignY=58&descSize=18" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=B084F5&center=true&vCenter=true&width=600&height=70&lines=Devesh+%F0%9F%91%BE;AI%2FML+Student;Anime+Enjoyer" />
+</p>
+
 
 <table>
 <tr>
@@ -45,6 +48,7 @@ motto:    "not all heroes wear capes, some just write clean commits"
   <i>bonus: dabbling with Antigravity too 🚀</i>
 </p>
 
+
 <p align="center"><i>Thanks for stopping by ✨</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<p align="center">⋆｡°✩ ₊˚⊹ ⋆</p>
