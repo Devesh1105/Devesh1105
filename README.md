@@ -32,7 +32,7 @@ motto:    "not all heroes wear capes, some just write clean commits"
 </p>
 
 <p align="center">
-  <img src="assets/dealwithit.jpg" width="180" alt="deal with it"/>
+  <img src="dealwithit.jpg" width="180" alt="deal with it"/>
 </p>
 
 <p align="center"><i>Thanks for stopping by ✨</i></p>
