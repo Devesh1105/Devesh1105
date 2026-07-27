@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devesh%20👾&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=full-stack%20dev%20%7C%20anime%20enjoyer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devesh%20👾&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20student%20%7C%20anime%20enjoyer&descAlignY=58&descSize=18" />
 
 <table>
 <tr>
@@ -8,7 +8,7 @@
 devesh@github: ~/readme $ fastfetch
 ------------------------------------------------------------
 username: Devesh1105
-whoami:   developer, night-owl debugger :3
+whoami:   AI/ML student, night-owl debugger :3
 os:       probably running on caffeine
 languages: [ Python(main), C++ ]
 learning: [hmmm ]
@@ -28,18 +28,18 @@ motto:    "not all heroes wear capes, some just write clean commits"
 <h3 align="center">⚡ Stats ⚡</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devesh1105&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh1105&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Devesh1105&show_icons=true&theme=tokyonight&card_width=400&line_height=24" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh1105&theme=tokyonight&layout=compact" width="42%"/>
 </p>
 
 <h3 align="center">🛠 Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cpp,git,vscode,jupyter&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="assets/dealwithit.jpg" width="180" alt="deal with it"/>
+  <img src="dealwithit.jpg" width="180" alt="deal with it"/>
 </p>
 
 <p align="center"><i>Thanks for stopping by ✨</i></p>
