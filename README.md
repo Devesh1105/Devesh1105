@@ -4,11 +4,10 @@
   <img src="tongue-out-ca-white-cat.gif" width="70" alt="anime cat"/>
 </td>
 <td>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=B084F5&center=true&vCenter=true&width=600&height=70&lines=Devesh Poojary ;AI%2FML+Student;Anime+Enjoyer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=B084F5&center=true&vCenter=true&width=600&height=70&lines=Devesh+Poojary;AI%2FML+Student;Anime+Enjoyer" />
 </td>
 </tr>
 </table>
-
 
 <table>
 <tr>
@@ -18,6 +17,7 @@
 devesh@github: ~/readme $ fastfetch
 ------------------------------------------------------------
 username: Devesh1105
+name:     Devesh Poojary
 whoami:   AI/ML student, night-owl debugger :3
 os:       probably running on caffeine
 languages: [ Python(main), C++ ]
@@ -47,6 +47,7 @@ motto:    "not all heroes wear capes, some just write clean commits"
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cpp,git,vscode,jupyter,docker,kubernetes,ps,blender,unreal,unity&theme=dark" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
@@ -55,10 +56,8 @@ motto:    "not all heroes wear capes, some just write clean commits"
   <i>bonus: dabbling with Antigravity too 🚀</i>
 </p>
 
-<p align="center">
-  <img src="assets/dealwithit.jpg" width="180" alt="deal with it"/>
-</p>
-
 <p align="center"><i>Thanks for stopping by ✨</i></p>
 
 <p align="center">⋆｡°✩ ₊˚⊹ ⋆</p>
+
+<p align="center"><sub>Made with 🖤 by Devesh Poojary</sub></p>
