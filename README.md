@@ -48,7 +48,7 @@ motto:    "not all heroes wear capes, some just write clean commits"
   </a>
 </p>
 <p align="center">
-  <img src="https://kaggle-readme-stats-nine.vercel.app/api?username=dvpoojary&theme=tokyonight" width="48%"/>
+  <img src="[![Kaggle](https://img.shields.io/badge/Kaggle-dvpoojary-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dvpoojary)" width="48%"/>
 </p>
 
 <h3 align="center">🛠 Tools</h3>
