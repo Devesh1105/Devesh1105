@@ -43,9 +43,12 @@ motto:    "not all heroes wear capes, some just write clean commits"
 </p>
 <h3 align="center">🏆 Kaggle</h3>
 <p align="center">
-  <a href="https://www.kaggle.com/dvpoojary">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/dvpoojary" />
-  </a>
+  <a href="https://www.kaggle.com/dvpoojary">
+    <img src="https://img.shields.io/badge/Kaggle-dvpoojary-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://kaggle-readme-stats-nine.vercel.app/api?username=dvpoojary&theme=tokyonight" width="48%"/>
 </p>
 
 <h3 align="center">🛠 Tools</h3>
