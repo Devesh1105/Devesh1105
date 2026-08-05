@@ -41,13 +41,13 @@ motto:    "not all heroes wear capes, some just write clean commits"
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Devesh1105&show_icons=true&theme=tokyonight&card_width=400&line_height=24" width="48%"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Devesh1105&theme=tokyonight&layout=compact" width="42%"/>
 </p>
-<h3 align="center"> 𝕂𝕒𝕘𝕘𝕝𝕖 </h3>
+<h3 align="center"> 𐌊𐌀ᏵᏵ𐌋𐌄</h3>
 <p align="center">
   <a href="https://www.kaggle.com/dvpoojary">
     <img src="https://img.shields.io/badge/Kaggle-dvpoojary-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 
-<h3 align="center">ㄒㄖㄖㄥ丂</h3>
+<h3 align="center">𐌕ꝊꝊ𐌋𐌔</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cpp,git,vscode,jupyter,docker,kubernetes,ps,blender,unreal,unity&theme=dark" />
