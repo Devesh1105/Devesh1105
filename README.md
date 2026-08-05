@@ -21,7 +21,7 @@ name:     Devesh Poojary
 whoami:   AI/ML student, night-owl debugger :3
 os:       probably running on caffeine
 languages: [ Python(main), C++ ]
-learning: [hmmm ]
+learning: [game dev x AIML ]
 hobbies:  coding, anime/manga, gaming, Drawing
 status:   awake at 3am fixing a bug nobody asked me to fix
 motto:    "not all heroes wear capes, some just write clean commits"
@@ -35,19 +35,19 @@ motto:    "not all heroes wear capes, some just write clean commits"
 </tr>
 </table>
 
-<h3 align="center">⚡ Stats ⚡</h3>
+<h3 align="center"> 𐌔𐌕𐌀𐌕𐌔 </h3>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Devesh1105&show_icons=true&theme=tokyonight&card_width=400&line_height=24" width="48%"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Devesh1105&theme=tokyonight&layout=compact" width="42%"/>
 </p>
-<h3 align="center">🏆 Kaggle</h3>
+<h3 align="center"> 𝕂𝕒𝕘𝕘𝕝𝕖 </h3>
 <p align="center">
   <a href="https://www.kaggle.com/dvpoojary">
     <img src="https://img.shields.io/badge/Kaggle-dvpoojary-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 
-<h3 align="center">🛠 Tools</h3>
+<h3 align="center">ㄒㄖㄖㄥ丂</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cpp,git,vscode,jupyter,docker,kubernetes,ps,blender,unreal,unity&theme=dark" />
