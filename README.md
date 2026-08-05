@@ -39,7 +39,7 @@ motto:    "not all heroes wear capes, some just write clean commits"
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Devesh1105&show_icons=true&theme=tokyonight&card_width=400&line_height=24" width="48%"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Devesh1105&theme=tokyonight&layout=compact" width="42%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Devesh1105&theme=tokyonight&layout=compact" width="48%"/>
 </p>
 <h3 align="center"> 𐌊𐌀ᏵᏵ𐌋𐌄</h3>
 <p align="center">
